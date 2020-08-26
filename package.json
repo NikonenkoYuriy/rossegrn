@@ -11,6 +11,7 @@
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"
   },
+   "homepage": "https://github.com/NikonenkoYuriy/rossegrn/",
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-router": "~4.5.0",
